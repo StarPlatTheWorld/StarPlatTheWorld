@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Interactive Computing Graduate
 
 <!--
 **StarPlatTheWorld/StarPlatTheWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on the Odin Project.
+- 🌱 I’m currently refreshing my memory on HTML, CSS, and JS. Learning React and more in the future!
