@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on the Odin Project.
-- 🌱 I’m currently refreshing my memory on HTML, CSS, and JS. Learning React and more in the future!
+- 🔭 I’m currently working on up-skilling and personal projects.
+- 🌱 Learning: React!
