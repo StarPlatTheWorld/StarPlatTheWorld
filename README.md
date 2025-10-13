@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on up-skilling and personal projects.
 - 🌱 Learning: Front-end development frameworks.
-- - 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him/They/Them
