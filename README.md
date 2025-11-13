@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on up-skilling and personal projects.
-- 🌱 Learning: VueJS 3.
+- 🌱 Learning: VueJS 3, TypeScript, ASP.NET.
 - 😄 Pronouns: He/Him/They/Them
 - 📫 How to reach me: ethan.mcfarlane@hotmail.co.uk
 - ⚡ Fun fact: I enjoy retro gaming.
